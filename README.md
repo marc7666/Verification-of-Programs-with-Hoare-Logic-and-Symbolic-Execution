@@ -14,3 +14,15 @@ _First problem (5 points):_
 
 Consider the following breathtaking algoritm for the multiplication of two integer numbers.
 
+![foto](https://github.com/marc7666/Verification-of-Programs-with-Hoare-Logic-and-Symbolic-Execution/blob/main/Screenshot%20from%202022-03-30%2016-23-46.png?raw=true)
+
+You must:
+
+1. Obtain an appropriate invariant for the loop of your the algorithm, and explain it (2 points).
+
+2. Perform the verification of the partial correctness of the algorithm (3 points).
+
+_Second problem (5 points):_
+
+Verify the following algorithm for computing the parity of the sum of the elements of an array a[N] with N ≥ 0 and storing it in the result variable r:
+

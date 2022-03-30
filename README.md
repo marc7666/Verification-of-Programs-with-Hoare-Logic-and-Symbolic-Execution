@@ -26,3 +26,11 @@ _Second problem (5 points):_
 
 Verify the following algorithm for computing the parity of the sum of the elements of an array a[N] with N ≥ 0 and storing it in the result variable r:
 
+![foto2](codi.png)
+
+![foto3](codi.png)
+
+You must:
+1. Obtain an appropriate invariant for the loop of your the algorithm, and explain it (1.5 points).
+
+2. Perform the verification of the partial correctness of the algorithm (3.5 points).

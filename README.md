@@ -34,3 +34,5 @@ You must:
 1. Obtain an appropriate invariant for the loop of your the algorithm, and explain it (1.5 points).
 
 2. Perform the verification of the partial correctness of the algorithm (3.5 points).
+
+Lonk to the LaTex document: https://www.overleaf.com/5573597111wnwgrzkdwsbr

@@ -35,4 +35,4 @@ You must:
 
 2. Perform the verification of the partial correctness of the algorithm (3.5 points).
 
-Lonk to the LaTex document: https://www.overleaf.com/5573597111wnwgrzkdwsbr
+Link to the LaTex document: https://www.overleaf.com/read/fcsbwfwnmqfk

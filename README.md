@@ -14,7 +14,7 @@ _First problem (5 points):_
 
 Consider the following breathtaking algoritm for the multiplication of two integer numbers.
 
-![foto](https://github.com/marc7666/Verification-of-Programs-with-Hoare-Logic-and-Symbolic-Execution/blob/main/Screenshot%20from%202022-03-30%2016-23-46.png?raw=true)
+![foto](https://github.com/marc7666/Verification-of-Programs-with-Hoare-Logic-and-Symbolic-Execution/blob/main/Documentation/images/Screenshot%20from%202022-03-30%2016-23-46.png?raw=true)
 
 You must:
 
